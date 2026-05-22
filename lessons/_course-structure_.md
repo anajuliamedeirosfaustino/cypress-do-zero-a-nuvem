@@ -1,28 +1,37 @@
-# 🌲 Cypress, do Zero à Nuvem ☁️
+# Estrutura do curso
 
-👋 Seja bem-vindo(a)!
+Abaixo você encontrará tudo o que precisa saber para aproveitar 💯% do conteúdo do curso.
 
-É muito bom tê-lo(a) aqui. Tenho certeza que você vai amar esse curso. ❤️
+## Conceito e exemplos
 
-## O que você vai aprender?
+No início de cada lição, descrevo o conceito a ser abordado.
 
-- Como configurar um projeto Cypress do zero
-- Como visitar páginas locais e remotas
-- Como lidar com os elementos mais comuns encontrados em aplicações web
-- Como testar upload de arquivos
-- Como realizar as mais diversas verificações de resultados esperados
-- Como criar comandos customizados
-- Como lidar com links que abrem em outra aba do navegador
-- Como rodar testes simulando as dimensões de um dispositivo móvel
-- Como resolver os mesmos problemas de diferentes formas, conhecendo a [API do Cypress](https://docs.cypress.io/api/table-of-contents)
-- Como criar uma documentação mínima para seu projeto de testes automatizados
-- Como executar os testes em um _workflow_ de integração contínua sempre que mudanças ocorrerem no código da aplicação (ou dos testes)
-- Como integrar seu _workflow_ de integração contínua com o Cypress Cloud (o serviço de gestão de testes do Cypress na nuvem)
+> 👨‍🏫 Por exemplo: upload de arquivos com Cypress.
 
-## Vamos começar?
+Nesta seção, trago as situações mais comuns encontradas no mundo da automação de testes web e apresento funcionalidades do Cypress que resolvem determinados casos de uso.
 
-Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
+> 👨‍🏫 No caso acima, por exemplo, eu mencionaria a funcionalidade [`.selectFile()`](https://docs.cypress.io/api/commands/selectfile), com exemplos de seu uso.
+>
+> A propósito, veremos essa funcionalidade em detalhes na [lição 6](./06.md).
+
+## Conteúdos sugeridos e links para a documentação
+
+Em muitas lições, há sugestões de conteúdos e links para a documentação oficial ao seu alcance.
+
+## Dicas do instrutor 👨‍🏫 (e _spoilers_ 🙊)
+
+Em alguns exercícios, você verá o emoji do instrutor, ou do macaco com a boca fechada.
+
+Quando é o emoji do instrutor (👨‍🏫), é apenas um lembrete.
+
+Quando é o emoji do macaco (🙊), tem algum _spoiler_ para te ajudar.
+
+## Exercícios
+
+Acredito que a prática leva à perfeição.
+
+Por isso, ao final de cada aula, há exercícios para você colocar em prática os novos conhecimentos.
 
 ___
 
-Este é um curso da **Escola Talking About Testing**.
+Agora que você conhece a estrutura do curso, vá para a seção de [pré-requisitos](./_pre-requisites_.md).
